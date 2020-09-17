@@ -9,7 +9,7 @@ const tvshowSchema = new Schema({
     cast: {
         type: [String],
         required: true
-    },
+    }, 
     description: {
         type: String
     },
